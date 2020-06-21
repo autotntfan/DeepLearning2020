@@ -5,4 +5,7 @@ Create yolo.h5
   [yolo.weights](http://pjreddie.com/media/files/yolo.weights) \
   [yadk.py](https://github.com/allanzelener/YAD2K/blob/master/yad2k.py)       change name from yad2k.py to yadk.py \
   Open cmd and write on \
-  ./yadk.py yolo.cfg yolo.weights model_data/yolo.h5 
+  ./yadk.py yolo.cfg yolo.weights model_data/yolo.h5 \
+\
+#Reference：\
+	https://github.com/allanzelener/YAD2K
